@@ -1,0 +1,19 @@
+{
+  "name": "com.jethummer.uni-rx",
+  "displayName": "UniRx",
+  "description": "UniRx is a .NET library that support async programming",
+  "version": "1.0.0",
+  "unity": "2019.2",
+  "unityRelease": "0a12",
+  "dependencies": {
+    
+  },
+  "relatedPackages": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jethummer/UniRx.git",
+    "revision": ""
+  }
+}
